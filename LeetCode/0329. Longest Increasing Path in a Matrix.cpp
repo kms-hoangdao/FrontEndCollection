@@ -1,0 +1,32 @@
+class Solution {
+public:
+    int longestIncreasingPath(vector<vector<int>>& matrix) {
+        int m = matrix.size();
+        int n = matrix[0].size();
+        vector<vector<int>> dp(m, vector<int>(n, -1));
+        pair<int, int> dirs[] = {{-1,0},{1,0},{0,-1},{0,1}};
+        int res = 0;
+
+        function<int(int, int)> dfs = [&](int i, int j) -> int {
+            if(dp[i][j] != -1) return dp[i][j];
+            int maxLength = 1;
+            for (auto [di, dj] : dirs) {
+                int x = i + di;
+                int y = j + dj;
+                if(x >= 0 && x < m && y >= 0 && y < n && matrix[x][y] > matrix[i][j]) {
+                    maxLength = max(maxLength, dfs(x, y) + 1);
+                }
+            }
+            dp[i][j] = maxLength;
+            return maxLength;
+        };
+
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                res = max(res, dfs(i, j));
+            }
+        }
+
+        return res;
+    }
+};
