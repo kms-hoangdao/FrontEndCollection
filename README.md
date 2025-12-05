@@ -55,7 +55,7 @@
 [2. implement Array.prototype.flat()](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Core/implement%20Array.prototype.flat().md)  
 [3. Implement curry() with placeholder support](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Core/implement%20curry()%20with%20placeholder%20support.md)  
 
-## Data Structures & Algorithms in JavaScript
+## Data Structures & Algorithms
 
 ### Solve the questions on [Codewar](https://www.codewars.com/) if you are a beginner
 [Beginners](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Algo/Beginners)   
@@ -342,4 +342,3 @@
 
 ***
 <p><em>🤯 If you find errors in the content of this project, don't hesitate to submit issues or pull requests on GitHub for corrections, I really, really appreciate it</em></p>
-<p><em>🤯如果你发现本项目有任何内容上的错误，欢迎在 GitHub 提交 issues 或者 pull requests 进行打脸</em></p>
