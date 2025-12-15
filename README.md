@@ -39,6 +39,21 @@
 [19. implement Array.prototype.flat()](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Core/implement%20Array.prototype.flat().md)  
 [20. Implement curry() with placeholder support](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Core/implement%20curry()%20with%20placeholder%20support.md)
 
+## System Design
+
+### System Design Course
+
+[001. Introduction](/System%20Design/System%20Design%20Course/001.%20Introduction/Introduction.md)  
+[002. How to prepare](https://github.com/cheatsheet1999/CloudCollection/tree/main/System%20Design/System%20Design%20Course/002.%20System%20Design%20Interviews)
+
+### System Design in Real World
+
+[001. Tiny URL](/System%20Design/System%20Design%20in%20Real%20World/001.%20Tiny%20URL.md)  
+[002. Design a Parking Lot System](/System%20Design/System%20Design%20in%20Real%20World/002.%20Design%20a%20Parking%20Lot%20System.md)  
+[003. Design a Fitness Tracking App](/System%20Design/System%20Design%20in%20Real%20World/003.%20Design%20a%20Fitness%20Tracking%20App.md)  
+[004. Design a Weather Reporting System](/System%20Design/System%20Design%20in%20Real%20World/004.%20Design%20a%20Weather%20Reporting%20System.md)  
+
+
 ## Data Structure and Algorithms
 ### Array & Two Pointers
 
@@ -192,7 +207,7 @@
 
 ---
 
-## Beginners
+### Beginners
 
 [0001. Sum of positive](/Data%20Structure%20and%20Algorithms/Beginners/0001.%20Sum%20of%20positive.md)  
 [0002. Return Negative](/Data%20Structure%20and%20Algorithms/Beginners/0002.%20Return%20Negative.md)  
@@ -225,6 +240,8 @@
 [23. Find the odd int](/Data%20Structure%20and%20Algorithms/Beginners/23.%20Find%20the%20odd%20int.md)  
 [24. Sum of Digits](/Data%20Structure%20and%20Algorithms/Beginners/24.%20Sum%20of%20Digits.md)  
 [25. Stop gninnipS My sdroW](/Data%20Structure%20and%20Algorithms/Beginners/25.%20Stop%20gninnipS%20My%20sdroW.md)  
+
+
 
 
 
